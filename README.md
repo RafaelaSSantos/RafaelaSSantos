@@ -20,10 +20,9 @@ Here are some ideas to get you started:
  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/>
  <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/>  
  <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/>  
- <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=6e0576" alt="bootstrap" width="40" height="40"/>
-  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=000000" alt="css3" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=000000" alt="css3" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=000000" alt="html5" width="40" height="40"/>  
  <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" alt="mysql" width="40" height="40"/>  
  <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="docker" width="40" height="40"/>
- 
+
  </p>
